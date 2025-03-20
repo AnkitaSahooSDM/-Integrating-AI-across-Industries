@@ -18,9 +18,6 @@ Welcome to my GitHub repository, where I document the fascinating rise of Artifi
 
 This repository provides a deep dive into Artificial Intelligence (AI), its core capabilities, definitions, and its global impact across industries. The goal is to understand the technological advancements in AI and explore its far-reaching effects on various sectors.
 
-## Table of Contents
-1. [Chapter 1: The Rise of AI: Understanding Its Core Capabilities and Global Impact](#chapter-1-the-rise-of-ai-understanding-its-core-capabilities-and-global-impact)
-
 ---
 
 ## Chapter 1: The Rise of AI: Understanding Its Core Capabilities and Global Impact
